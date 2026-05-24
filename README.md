@@ -19,6 +19,9 @@ No matter how restrictive the environment is, CheckScript stays connected.
 - **Firewall Penetration:** Automatically neutralizes hostile network blocks, firewalls, and aggressive monitoring software that attempt to cut off your connection.
 - **Self-Healing Connection:** Features a continuous watchdog that instantly re-establishes the video feed if the network drops or switches (e.g., changing from Ethernet to Wi-Fi).
 
+## Contact 
+Telegram - @checkscriptsupport
+
 ## 🚀 How to Use
 
 CheckScript is designed for effortless, plug-and-play deployment:
